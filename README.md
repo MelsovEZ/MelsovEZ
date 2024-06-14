@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 Here are some of the technologies and tools I work with:
 
 - Programming Languages: Python, JavaScript, PHP
-- Frameworks: React, Laravel, Express, React
+- Frameworks: React, Next, Express, Laravel, Django
 - Databases: MySQL, SQLite, MongoDB
 - Tools: Git, Docker, Kubernetes
 - Other: GraphQL
