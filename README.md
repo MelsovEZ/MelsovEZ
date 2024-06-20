@@ -18,7 +18,6 @@ Here are some of the technologies and tools I work with:
 - Tools: Git, Docker, Kubernetes
 - Other: GraphQL
 
-
 ## 📫 Connect with Me
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/yernur-melsov-60301930a/)
@@ -26,4 +25,4 @@ Here are some of the technologies and tools I work with:
 
 ---
 
-Thank you for visiting my profile! Feel free to explore my repositories and reach out if you'd like to connect or collaborate on a project.
+Feel free to explore my repositories and reach out if you'd like to connect or collaborate on a project.
