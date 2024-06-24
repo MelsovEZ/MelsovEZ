@@ -20,7 +20,7 @@ Here are some of the technologies and tools I work with:
 
 ## 📫 Connect with Me
 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/yernur-melsov-60301930a/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/melsov/)
 - Telegram: [Telegram](https://t.me/mels_ov)
 
 ---
