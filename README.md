@@ -8,9 +8,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 
 - 🔭 I’m currently participating in nFactorial incubator.
 - 🌱 I’m currently learning full-stack development.
-- 🤔 I’m looking for help with ML, Data Science and LLM.
+- 🤔 I’m looking for help with ML, Data Science and AI.
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=melsovez&theme=dark&background=1e293b)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=melsovez&theme=shadow-purple)](https://git.io/streak-stats)
 
 ## 🛠️ Skills and Tools
 
