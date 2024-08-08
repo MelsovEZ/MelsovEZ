@@ -26,9 +26,9 @@ Here are some of the technologies and tools I work with:
 
 ## 📫 Connect with Me
 
-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melsov/)  
-- [![Youtube Badge](https://img.shields.io/badge/Telegram-%2324A1DE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mels_ov/)
-- [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yernur.jpg/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melsov/)
+[![Youtube Badge](https://img.shields.io/badge/Telegram-%2324A1DE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mels_ov/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yernur.jpg/)
 
 ---
 
