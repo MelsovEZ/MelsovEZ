@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 
 ## 🚀 About Me
 
-- 🔭 I’m currently participating in nFactorial incubator.
+- 🔭 I’m currently working at Pleep.
 - 🌱 I’m currently learning full-stack development.
 - 🤔 I’m looking for help with ML, Data Science and AI.
 
